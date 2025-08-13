@@ -227,10 +227,6 @@ export default function TimelessHomelessRetreat() {
           <p className="text-slate-400 mb-6">
             Redefining wellness through the profound simplicity of having absolutely nothing
           </p>
-          <p className="text-sm text-slate-500">
-            * This is a satirical commentary on the commercialization of spirituality. Please don't actually pay 1 ETH
-            to be homeless on a bridge.
-          </p>
         </div>
       </footer>
     </div>
